@@ -1,3 +1,3 @@
 const ENV = {
-    GROQ_API_KEY: "YOUR_GROQ_API_KEY_HERE" // Paste your Groq API Key here when running locally
+    GROQ_API_KEY: "" // Isay .env ya deployment settings se handle karein
 };
